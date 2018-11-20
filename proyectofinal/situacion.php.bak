@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Rio Sabinal</title>
+    <link rel="stylesheet" href="css/estilos.css">
+  </head>
+  <body>
+    <br>
+    <header>
+      <nav class="menu">
+        <ul>
+          <li> <a href="index.html"> Inicio </a></li>
+        </ul>
+        <ul>
+          <li>Historia
+            <ul>
+              <li> <a href="historia.php">Historia del rio</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Causas
+            <ul>
+              <li><a href="causas.php"> Causas de la contaminación</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Consecuencias
+            <ul>
+              <li>Consecuencias de la contaminación</li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Situacion
+            <ul>
+              <li><a href="situacion.php">Situacion real</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>¿Qué se hizo?
+            <ul>
+              <li><a href="que.php">Evidencia</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <h1> </h1>
+      <br>
+      <!--<center><img src="imagenes/planetcar.jpg" WIDTH=350 HEIGHT=250  VSPACE=3 HSPACE=20></center>-->
+    </header>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+      <h3>
+        <span style="font-family: Lucida Bright; color: #a3a3a3;">El rio sabinal
+          nace en un ojo de agua en el municipio de Berriozábal, transita por
+          toda la ciudad de Tuxtla Gutiérrez
+          <br>
+          y desemboca en el rio Grijalva pasando por el cañón del sumidero. <br>
+          Las autoridades de Protección Civil prevén que el recolector flotante
+          será más usado cuando termine el estiaje <br>
+          y comiencen las lluvias: "El problema de contaminación crecerá, porque
+          los torrentes pluviales arrastran la basura que hay en las calles de <br>
+          ciudades que colindan con el río, como Tuxtla y Chiapa de Corzo y
+          otras de las regiones Centro y Frailesca... <br>
+          vienen principalmente troncos, papel, cartón, bolsas y botellas de
+          plástico e incluso llantas, pilas, baterías <br>
+          y envases de aerosoles entre otros tantos objetos de uso personal”.
+        </span>
+      </h3>
+      <h3>
+        <br>
+        <br>
+        <center><img src="imagenes/riosabinal8.jpg" style="width: 434px; height: 250px;"
+            hspace="20" vspace="3"></center>
+        <center>
+        </center>
+      </h3>
+    </center>
+  </body>
+</html>
