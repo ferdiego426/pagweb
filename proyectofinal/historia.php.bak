@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Rio Sabinal</title>
+    <link rel="stylesheet" href="css/estilos.css">
+  </head>
+  <body> <br>
+    <header>
+      <nav class="menu">
+        <ul>
+          <li> <a href="index.html"> Inicio </a></li>
+        </ul>
+        <ul>
+          <li>Historia
+            <ul>
+              <li> <a href="historia.php">Historia del rio</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Causas
+            <ul>
+              <li><a href="causas.php"> Causas de la contaminación</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Consecuencias
+            <ul>
+              <li>Consecuencias de la contaminación</li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>Situacion
+            <ul>
+              <li><a href="situacion.php">Situacion real</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul>
+          <li>¿Qué se hizo?
+            <ul>
+              <li><a href="que.php">Evidencia</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <h1> </h1>
+      <br>
+      <!--<center><img src="imagenes/planetcar.jpg" WIDTH=350 HEIGHT=250  VSPACE=3 HSPACE=20></center>-->
+    </header>
+    <br>
+    <br>
+    <br>
+    <p style="width: 1114px;"><span style="color: #969696;"><b>El río Sabinal
+          nace en una cueva del municipio de&nbsp; Berriozabal y baja por una </b></span><span
+        style="color: #969696;"><b>cañada donde forma pozas de agua limpia, su
+          cami</b></span><span style="color: #969696;"><b>no es nutrido por 21
+          diferentes afluentes, atraviesa el norte de la ciudad y desemboca en
+          el río Grijalva, algunos afluentes que lo n</b></span><span style="color: #969696;"><b>utren
+          son Arroyo la Chacona, el Poti, San Roque y algunos embovedados que
+          vierten sus aguas en el río de la ciudad.</b></span><br>
+      <span style="color: #969696;"><b><img src="imagenes/a1.png" alt="" style="width: 287px; height: 182px;">
+        </b></span><br>
+      <span style="color: #969696;"><b>En 1892 se hizo un plano de Tuxtla
+          Gutiérrez en el que se puede apreciar una población muy pequeña. <br>
+          &nbsp;Las ultimas calles de este a oeste eran la 9a. Oriente y la 9a.
+          Poniente. Por el lado sur las últimas casas llegaban hasta la 9a Sur <br>
+          y por el norte no se podía ampliar debido a que ahí se encontraba el
+          Río Sabinal.<br>
+          El río Sabinal es una afluente sobre el cual convergen diversos
+          arroyos tributarios de la capital del estado, y es además un espacio
+          representativo de la capital del estado.</b></span></p>
+    <p><span style="color: #969696;"><b><br>
+        </b></span></p>
+    <p style="width: 1140px;"><span style="color: #969696;"><b>Su nombre
+          proviene de la voz popular que lo nombraba por el amplio número de
+          sabinos que podían verse en los márgenes del entonces cristalino río.<br>
+          Sin embargo, debido a la falta de planeamiento en el crecimiento
+          demográfico de la ciudad, aunado a la falta de cultura ambiental<br>
+          &nbsp;y algunos fenómenos naturales, su cause contamina y sus márgenes
+          reducidos perdieron inercia natural, provocando eventuales
+          afectaciones a las <br>
+          viviendas, comercios locales y población en generál.<br>
+          En algún momento se planeó un proyecto de rescate a sus cauces que
+          nunca se complementó, pero hoy en día está abandonado a la suerte que
+          le<br>
+          dicta el crecimiento anárquico en la ciudad.<br>
+        </b></span></p>
+    <p><span style="color: #969696;"><b><br>
+        </b></span></p>
+    <p style="width: 1137px;"><span style="color: #969696;"><b>El río Sabinal
+          tiene una longitud aproximada de 13 mil 445.82 metros, se denomina así
+          por alojar a lo largo de su cauce una población importante<br>
+          de sabinos (Taxodium mucronatum, Ahuehuete, Ciprés calvo, Ciprés
+          mexicano y/o Ciprés de Moctezuma).<br>
+          Así, el río Sabinal es un elemento ligado al desarrollo de la capital
+          del estado, la ciudad de Tuxtla Gutiérrez. Sin embargo, por la falta<br>
+          de planeación y la invasión del límite de la zona federal, cuando se
+          han presentado fenómenos hidrometereológicos extraordinarios, ha
+          provocado<br>
+          inundaciones con cuantiosas pérdidas económicas e incluso algunas
+          pérdidas humanas, los más recientes en 1996 y 1998.</b></span></p>
+    <p><br>
+    </p>
+  </body>
+</html>

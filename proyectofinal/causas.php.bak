@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+  
+
+<head>
+<title>Rio Sabinal</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<br>
+    <header>
+        <nav class="menu">
+			<ul>
+                <li>
+				<a href="index.html"> Inicio </a></li>
+			</ul>
+
+		   <ul>
+                <li>Historia
+                    <ul>
+					<li> <a href="historia.php">Historia del rio</a></li>
+                    </ul>
+			</ul>
+				</li>
+
+                <ul>
+                     <li>Causas
+                            
+                            <ul>
+                              
+                                <li><a href="causas.php">Causas de la contaminación</a></li>
+                            </ul>
+                        
+                        
+                    
+                </ul>
+                <ul>
+				<li>Consecuencias
+                <ul>
+                                <li><a href="consecuencias.php">Consecuencias de la contaminación</a></li>
+                                
+                            </ul>
+                        
+                        </li>
+                    </ul>
+                
+                </li>
+				<ul><li>Situacion
+                <ul>
+                                <li><a href="situacion.php">Situacion real</a></li>
+                                
+                            </ul>
+                        
+                        </li>
+                    </ul>
+                
+                </li>
+        </nav>
+        <h1> </h1><br>
+        
+        <!--<center><img src="imagenes/planetcar.jpg" WIDTH=350 HEIGHT=250  VSPACE=3 HSPACE=20></center>-->
+        
+    </header>
+<center>
+<h4>
+<br><br><br><br>La ciudad fue creciendo de manera que se empezó a deforestar los arboles que rodeaban el río y se abrieron tomas que empezaron
+<br> a reducir la corriente y el cauce. Luego, Tuxtla creció rápidamente y se pobló la zona norte que estaba al lado del río, así como el poniente.
+
+
+<br><br><br>Entonces se comenzaron a construir pozos para suministrar a tanta gente, estos aceleraron el proceso de secado del río. 
+<br>También todo el drenaje de las nuevas colonias iba a dar al Río Sabinal, donde comenzó a crearse un gran bote de basura para la ciudad.
+<br>El río Sabinal es contaminado en su mayoría por las prácticas de origen doméstico, por residuos sólidos y orgánicos, así lo reflejan 
+<br>los altos índices de Demanda Bioquímica de Oxígeno (DBO) y Demanda Química de Oxígeno (DQO).
+
+</h4>
+<center>
+</body>
+</html>
